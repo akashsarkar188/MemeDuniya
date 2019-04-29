@@ -13,6 +13,8 @@ Meme Duniya is here to rescue !
 Your one stop destination for all you meme needs :)
 Here you can find all the different types of memes as well as download them to your phone or save them as your favourites and they will be added to your account in our cloud so you need not to worry about storage.
 
+You can download the app from above :)
+
 Below are some screenshots of the apps, hope you enjoy it :)
 
 
