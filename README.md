@@ -23,7 +23,7 @@ Below are some screenshots of the apps, hope you enjoy it :)
 
 ![Screenshot_Meme_Duniya_20190429-151951](https://user-images.githubusercontent.com/29357444/56888989-f2a24100-6a92-11e9-8abb-e7685e28ea27.png)
 ![Screenshot_Meme_Duniya_20190429-151951](https://user-images.githubusercontent.com/29357444/56888989-f2a24100-6a92-11e9-8abb-e7685e28ea27.png)
-<img src = "https://user-images.githubusercontent.com/29357444/56888989-f2a24100-6a92-11e9-8abb-e7685e28ea27.png" width="100" height="100">
+<img src = "https://user-images.githubusercontent.com/29357444/56888989-f2a24100-6a92-11e9-8abb-e7685e28ea27.png" width="500" height="300">
 
 ![Screenshot_Meme_Duniya_20190429-151934](https://user-images.githubusercontent.com/29357444/56888988-f209aa80-6a92-11e9-95dd-c6e4379cede4.png)
 ![Screenshot_Meme_Duniya_20190429-145449](https://user-images.githubusercontent.com/29357444/56888985-f209aa80-6a92-11e9-8c0b-84daede74969.png)
