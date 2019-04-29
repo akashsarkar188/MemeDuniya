@@ -22,7 +22,7 @@ Below are some screenshots of the apps, hope you enjoy it :)
 
 
 
-<img src = "https://user-images.githubusercontent.com/29357444/56908202-7d029900-6ac3-11e9-8719-8c8a5df84307.png" width="400" height="650">     <img src = "https://user-images.githubusercontent.com/29357444/56908518-1631af80-6ac4-11e9-9043-0cdb1ee31399.png" width="400" height="650">
+<img src = "https://user-images.githubusercontent.com/29357444/56908202-7d029900-6ac3-11e9-8719-8c8a5df84307.png" width="400" height="650">         <img src = "https://user-images.githubusercontent.com/29357444/56908518-1631af80-6ac4-11e9-9043-0cdb1ee31399.png" width="400" height="650">
 
 
 
