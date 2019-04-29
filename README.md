@@ -21,24 +21,20 @@ Below are some screenshots of the apps, hope you enjoy it :)
 
 
 
-![Screenshot_Meme_Duniya_20190429-151951](https://user-images.githubusercontent.com/29357444/56888989-f2a24100-6a92-11e9-8abb-e7685e28ea27.png)
-![Screenshot_Meme_Duniya_20190429-151951](https://user-images.githubusercontent.com/29357444/56888989-f2a24100-6a92-11e9-8abb-e7685e28ea27.png)
-<img src = "https://user-images.githubusercontent.com/29357444/56888989-f2a24100-6a92-11e9-8abb-e7685e28ea27.png" width="500" height="800">
 
-![Screenshot_Meme_Duniya_20190429-151934](https://user-images.githubusercontent.com/29357444/56888988-f209aa80-6a92-11e9-95dd-c6e4379cede4.png)
-![Screenshot_Meme_Duniya_20190429-145449](https://user-images.githubusercontent.com/29357444/56888985-f209aa80-6a92-11e9-8c0b-84daede74969.png)
-![Screenshot_Meme_Duniya_20190429-145441](https://user-images.githubusercontent.com/29357444/56888984-f209aa80-6a92-11e9-8142-fc10d3fb1dee.png)
-![Screenshot_Meme_Duniya_20190429-145427](https://user-images.githubusercontent.com/29357444/56888983-f1711400-6a92-11e9-9d5e-b5e10d93bc21.png)
-![Screenshot_Google_Play_services_20190429-145454](https://user-images.githubusercontent.com/29357444/56888982-f1711400-6a92-11e9-84ff-57485e5eacc9.png)
-![Screenshot_Android_system_20190429-152150](https://user-images.githubusercontent.com/29357444/56888980-f1711400-6a92-11e9-8c34-25c453cdbed2.png)
-![Screenshot_Meme_Duniya_20190429-152132](https://user-images.githubusercontent.com/29357444/56888979-f0d87d80-6a92-11e9-8782-4681b2dc9047.png)
-![Screenshot_Meme_Duniya_20190429-152123](https://user-images.githubusercontent.com/29357444/56888978-f0d87d80-6a92-11e9-84a1-a32b5bc6de71.png)
-![Screenshot_Meme_Duniya_20190429-152112](https://user-images.githubusercontent.com/29357444/56888977-f03fe700-6a92-11e9-8fd6-f3b36aa61ca1.png)
-![Screenshot_Meme_Duniya_20190429-152100](https://user-images.githubusercontent.com/29357444/56888976-f03fe700-6a92-11e9-9436-c22365f874f8.png)
-![Screenshot_Meme_Duniya_20190429-152031](https://user-images.githubusercontent.com/29357444/56888974-efa75080-6a92-11e9-85a2-861abb17bd29.png)
-![Screenshot_Meme_Duniya_20190429-152021](https://user-images.githubusercontent.com/29357444/56888972-efa75080-6a92-11e9-9f39-005044b7219f.png)
-![Screenshot_Meme_Duniya_20190429-152012](https://user-images.githubusercontent.com/29357444/56888971-ef0eba00-6a92-11e9-83ec-90fa4474f159.png)
-![Screenshot_Meme_Duniya_20190429-152000](https://user-images.githubusercontent.com/29357444/56888969-ef0eba00-6a92-11e9-93d1-4232a6146ec5.png)
+<img src = "https://user-images.githubusercontent.com/29357444/56908202-7d029900-6ac3-11e9-8719-8c8a5df84307.png" width="500" height="800">
+<img src = "" width="500" height="800">
+<img src = "" width="500" height="800">
+<img src = "" width="500" height="800">
+<img src = "" width="500" height="800">
+<img src = "" width="500" height="800">
+<img src = "" width="500" height="800">
+<img src = "" width="500" height="800">
+<img src = "" width="500" height="800">
+<img src = "" width="500" height="800">
+<img src = "" width="500" height="800">
+<img src = "" width="500" height="800">
+<img src = "" width="500" height="800">
 
 
 
